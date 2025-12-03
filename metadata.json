@@ -1,0 +1,5 @@
+{
+  "name": "TeleChat AI",
+  "description": "A modern, Telegram-style chat application where you can create rooms and chat with an AI assistant capable of analyzing files and images.",
+  "requestFramePermissions": []
+}
